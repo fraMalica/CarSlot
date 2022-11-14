@@ -3,7 +3,7 @@
 #include "carslot.h"
 
 typedef struct carslot {
-    char carBrand[10];
+    int carBrand[10];
     char carModel[10];
 } CarSlot;
 
